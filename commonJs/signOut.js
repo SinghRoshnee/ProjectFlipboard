@@ -3,6 +3,6 @@ function logout() {
 }
 firebase.auth().onAuthStateChanged((user) => {
   if (!user) {
-    location.href = "index.html";
+    location.href = "./index.html";
   }
 });
