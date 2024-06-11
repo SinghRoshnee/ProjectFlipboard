@@ -318,7 +318,9 @@ main.min-main{
 
 
 /*------------------> Responsive*/
-@media (max-height: 660px){
+
+
+/* @media (max-height: 660px){
     .barra-lateral .nombre-pagina{
         margin-bottom: 5px;
     }
@@ -347,10 +349,9 @@ main.min-main{
         margin-left: 0;
     }
     
-}
-
-/* setting menu
-/* .header-nav {
+} */
+/* 
+.header-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -448,4 +449,4 @@ main.min-main{
     justify-content: space-between;
     text-decoration: none;
     color: var(--secondary-txt-clr);
-  } */
+  }  */
